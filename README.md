@@ -13,9 +13,9 @@
 - เรียงเมนูตามราคา (น้อย→มาก หรือ มาก→น้อย)
 
 ## Colab Sprint 1 
-```bash
+
 https://colab.research.google.com/drive/1K0tOJNjKDsKXVxDHStGP9Q3ajDXNm6VY?usp=sharing#scrollTo=9uDuWu6HCi8R
-```
+
 
 ## 📦 Installation
 ```bash
