@@ -32,8 +32,8 @@ python3 menu_pricing_mvp.py
  - เพิ่มฟังก์ชั่น การจัดเรียง ID ทุกครั้งที่ลบเมนูอาหาร
 
 ## Colab Sprint 2
-```bash
+
 https://colab.research.google.com/drive/1uUrLlmEjjFju7OJGmP0FGhq9sITvQg1K?usp=sharing#scrollTo=CNlpcgrKFxPt
-```
+
 
 
