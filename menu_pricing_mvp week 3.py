@@ -22,15 +22,6 @@ def filter_by_category(menu, category):
 def sort_by_price(menu, desc=False):
     return sorted(menu, key=lambda x: x["price"], reverse=desc)
 
-
-def load_menu_from_json(filename="menu.json"):
-    try:
-        with open(filename, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
-        return []
-
-
 def save_menu_to_json(menu, filename="menu.json"):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(menu, f, ensure_ascii=False, indent=4)
