@@ -57,3 +57,38 @@ https://colab.research.google.com/drive/1uUrLlmEjjFju7OJGmP0FGhq9sITvQg1K?usp=sh
 ## Colab Sprint 3
 
 https://colab.research.google.com/drive/1oh2cTS6L8x4x3X8yw_iiMr7dD4Kjouz2#scrollTo=iEws3ybxTLad
+
+# Sprint Final
+## 👥 Team Roles
+Planner:เกียรติพงษ์ เผดิมศักดิ์ 673380433-3 Sec2 
+Coder:นันทกร แสวงจิตร 673380085-0 Sec2 
+Debugger:พชรพงศ์ สาหล่อน 673380414-7 Sec2
+  
+🎯 Sprint Goal Final
+-พัฒนาโปรแกรมสู่รูปแบบเว็บไซต์ (Web App) ด้วย Flask และทำ Docker deployment
+
+🪜ลำดับขั้นตอนการทำงานที่เตรียมไว้
+-ศึกษาการใช้งานHTMLและFlask 
+-ศึกษาการใช้Dockerให้สามารถทำงานได้จากเครื่องอื่นๆ 
+-เปลี่ยนจากCliมาเป็นwebให้ใช้งานได้ผ่านbrowser
+
+✅ Acceptance Criteria
+-สามารถเปลี่ยนจากCliมาเป็นWebบนbrowserด้วยFlask ทำให้สามารถDockerizeได้
+
+## Colab Sprint Final
+
+https://colab.research.google.com/drive/1frPMMVl2YHKximYEFutBz14L3zPUq_W7?usp=sharing#scrollTo=E2seox096JGM
+
+## web
+
+https://myweb-menu-001.onrender.com/
+
+🌐 วิธีรัน Web App
+รันผ่าน Terminal ใช้คำสั่ง Flask Run จะได้ URl
+http://127.0.0.1:5000
+
+ใช้งานผ่าน Render
+https://myweb-menu-001-3.onrender.com/
+เปิด URl แล้วเข้าใช้งานได้เลย
+
+
