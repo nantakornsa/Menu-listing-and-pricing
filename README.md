@@ -93,7 +93,7 @@ https://myweb-menu-001-3.onrender.com/
 เปิด URl แล้วเข้าใช้งานได้เลย
 
 
-## Github ที่ใช้้เปิดเว็บ
+## Github ที่ใช้เปิดเว็บ
 
 https://github.com/nantakornsa/myweb_menu_001
 
